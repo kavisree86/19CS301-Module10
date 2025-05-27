@@ -1,5 +1,5 @@
 # 19CS301-Module10
-###EX: 10.a  STACK
+### EX: 10.a  STACK
 ### Aim: To Write a python program to get the integer values from the user and push only the odd number into the stack and later pop the last 2 elements
 ### Algorithm:
 STEP 1: Start.
@@ -137,6 +137,7 @@ for i in range(4):
  ![image](https://github.com/user-attachments/assets/26a380ff-118e-43f4-8178-83a5417262b5)
  
 
-### Result: Thus, the given program is implemented and executed successfully .
+### Result:
+Thus, the given program is implemented and executed successfully .
  
 
